@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Haeju Lee's CV
 ---
-# Isaac Newton
+# Haeju Lee / 이해주
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
