@@ -2,11 +2,12 @@
 layout: cv
 title: Haeju Lee's CV
 ---
-# Haeju Lee (이해주)
+# Haeju Lee (이해주)  
+<br>
 AI Researcher
 
 <div id="webaddress">
-<a href="mailto: lhg912@gmail.com">Email</a>
+<a href="mailto: lhg912@gmail.com">E-mail</a>
 </div>
 
 
@@ -16,14 +17,14 @@ Graduate student @ KAIST (advisor: [Kee-Eung Kim](http://ailab.kaist.ac.kr/users
 
 ## Research interests
 
-Natural Language Processing, Reinforcement Learning, Bayesian Methods
+Natural Language Processing, Reinforcement Learning
 
 ## Education
 
 `2014 - 2021`
 __Yonsei University__
 
-- Department of Computer Science & Engineering
+- Department of Computer Science
 
 `2021 - 2023`
 __KAIST__
@@ -33,14 +34,14 @@ __KAIST__
 ## Employment
 
 `2019.07 - 2019.12`
-__Bear Robotics__, Robotics Team (San Francisco Bay Area, US)
+__Bear Robotics__ (San Francisco Bay Area, US)
 
 - Software Engineer Intern
     * • Implemented features for serving robot customizing ROS C++ code
     * • Implemented program for testing robot navigation stack in Python
 
 `2020.03 - 2020.09`
-__Naver Labs__, Robot Dynamics and Control Team (Seongnam, Korea)
+__Naver Labs__ (Seongnam, Korea)
 
 - Research Engineer Intern
     * • Implemented simulator for [Ambidex](https://youtu.be/NWEPEfRJ_3g) to promote efficient learning (RL, IL)  
@@ -55,7 +56,7 @@ __Pozalabs__ (Seoul, Korea)
 
 - Research Intern
     * • Conducted research on finding how to fit generative model (e.g. GPT)  
-    to compose MIDI music
+    to compose MIDI scores
 
 
 ## Publications
@@ -64,11 +65,14 @@ __Pozalabs__ (Seoul, Korea)
 
 `2023`
 [MS thesis, will be sumbitted to EMNLP 2023] Haeju Lee, ["Bayesian Transfer Learning for Soft Prompt Tuning"](https://github.com/heyzude/markdown-cv/blob/master/assets/Papers/hjlee_MS_defense_v1.pdf), 2023
+<div style=" width: 0.8em; height: 0.8em;"></div>
 
 `2022`
 Haeju Lee, Oh Joon Kwon, Yunseon Choi, Minho Park, Ran Han, Yoonhyung Kim, Jinhyeon Kim, Youngjune Lee, Haebin Shin, Kangwook Lee, Kee-Eung Kim, ["Learning to Embed Multi-Modal Contexts for Situated Conversational Agents"](https://aclanthology.org/2022.findings-naacl.61/)", *NAACL Findings*, 2022
+<div style=" width: 0.8em; height: 0.8em;"></div>
 
 Haeju Lee, Oh Joon Kwon, Yunseon Choi, Minho Park, Ran Han, Yoonhyung Kim, Jinhyeon Kim, Youngjune Lee, Haebin Shin, Kangwook Lee, Kee-Eung Kim, ["Tackling Situated Multi-Modal Task-Oriented Dialogs with a Single Transformer Model"](http://ailab.kaist.ac.kr/papers/LKC2022TACKLING), *AAAI DSTC10 Workshop*, 2022
+<div style=" width: 0.8em; height: 0.8em;"></div>
 
 `2021`
 Youngjune Lee, Oh Joon Kwon, Haeju Lee, Joonyoung Kim, Kangwook Lee, Kee-Eung Kim, ["Augment & Valuate : A Data Enhancement Pipeline for Data-Centric AI"](https://datacentricai.org/neurips21/papers/154_CameraReady_[154]Augment&ValuateAdataenhancementpipelineforDataCentricAI.pdf), *NeurIPS Data-Centric AI workshop*, 2021
@@ -80,14 +84,17 @@ Youngjune Lee, Oh Joon Kwon, Haeju Lee, Joonyoung Kim, Kangwook Lee, Kee-Eung Ki
 (Method and System for Predicting Price of Agricultural Product based on Transformer Model)
 
 ## Awards & Competitions
+
 `2021`
 1st place on [DSTC 10](https://dstc10.dstc.community/) challenge (track 3: [SIMMC2.0](https://github.com/facebookresearch/simmc2))
 
-</br>
+<div style=" width: 0.8em; height: 0.8em;"></div>
+
 
 `2018`
 Samsung AI Hackathon, Special award
-- Indoor cleaning robot navigation using deep learning model
+- 
+    * • Indoor cleaning robot navigation using deep learning model
 
 
 <!-- ### Footer

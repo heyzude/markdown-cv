@@ -1,29 +1,42 @@
 <!doctype html>
 <html>
+
 <head>
   <meta charset=utf-8 />
   <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
   <link href="media/{{ site.style }}-screen.css" type="text/css" rel="stylesheet" media="screen">
   <link href="media/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
- 
+  <link href="media/styles.css" type="text/css" rel="stylesheet" media="screen">
+  <link href="media/styles.css" type="text/css" rel="stylesheet" media="print">
   <!-- mathjax -->
   <script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-  tex2jax: {
-  inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-  processEscapes: true
-  }
-  });
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        processEscapes: true
+      }
+    });
   </script>
-  <!-- javascript -->
   <script type="text/javascript" async
     src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-  </head>
+  <!-- Minimal version of KaTeX 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js"></script>
+  -->
+  <!-- Standard version of KaTeX
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+  -->
+</head>
+
 <body>
   <div id="main">
     <div id="content">
-    {{ content }}
+      {{ content }}
     </div>
   </div>
 </body>
+
 </html>

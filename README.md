@@ -1,11 +1,6 @@
 ### CV - Haeju Lee
 
 <br/><br/>
-    
-      
-        
-          
-            
 
 
 

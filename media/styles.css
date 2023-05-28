@@ -1,0 +1,42 @@
+/* css styles */
+/* @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap'); */
+@import url("https://cdn.jsdelivr.net/gh/sunn-us/SUIT/fonts/static/woff2/SUIT.css");
+@import url("https://cdn.jsdelivr.net/gh/sunn-us/SUITE/fonts/static/woff2/SUITE.css");
+@import url("https://cdn.jsdelivr.net/gh/wan2land/d2coding/d2coding-ligature-subset.css");
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'SUITE' !important;
+    font-weight: 600;
+}
+
+h1 {
+    font-size: 180%;
+}
+
+ul,
+li,
+ol,
+a {
+    font-family: 'SUIT' !important;
+    font-size: 95%;
+}
+
+p {
+    font-family: 'SUIT' !important;
+    font-size: 100%;
+    font-weight: 400;
+}
+
+.category {
+    font-size: 90%;
+}
+
+.sourceCode {
+    font-family: 'D2Coding', monospace !important;
+    font-size: 90%;
+}
