@@ -21,15 +21,16 @@ Natural Language Processing (NLP), Reinforcement Learning (RL)
 
 ## Education
 
-`2014 - 2021`
-__Yonsei University__
-
-- Department of Computer Science
 
 `2021 - 2023`
 __KAIST__
 
 - Gradueate School of AI
+
+`2014 - 2021`
+__Yonsei University__
+
+- Department of Computer Science
 
 ## Employment
 
