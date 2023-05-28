@@ -2,86 +2,90 @@
 layout: cv
 title: Haeju Lee's CV
 ---
-# Haeju Lee / 이해주
-Physicist, Mathematician, Cambridge professor.
+# Haeju Lee (이해주)
+AI Researcher
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto: lhg912@gmail.com">personal email</a>
+<a href="mailto: lhg912@kaist.ac.kr">school email</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Graduate student @ KAIST (advisor: [Kee-Eung Kim](http://ailab.kaist.ac.kr/users/kekim))
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Natural Language Processing, Reinforcement Learning, Bayesian Methods
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014 - 2021`
+__Yonsei University__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Department of Computer Science & Engineering
 
-- Sizar
+`2021 - 2023`
+__KAIST__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Gradueate School of AI
 
-- Fellow
+## Employment
 
+`2019.07 - 2019.12`
+__Bear Robotics__, Robotics Team (San Francisco Bay Area, US)
 
+- Software Engineer Intern
+    * Implemented features for serving robot customizing ROS C++ code
+    * Implemented program for testing robot navigation stack in Python
 
-## Awards
+`2020.03 - 2020.09`
+__Naver Labs__, Robot Dynamics and Control Team (Seongnam, Korea)
 
-`2012`
-President, *Royal Society*, London, UK
+- Research Engineer Intern
+    * Implemented simulator for [Ambidex](https://youtu.be/NWEPEfRJ_3g), an ambidexterous robot designed by Naver Labs, to promote efficient learning (RL, IL) in simulation, based on Mujoco and [Metaworld](https://meta-world.github.io)
+    * Created Python binding of existing Ambidex controller code (C++), to plug Ambidex into RL training loop
+    * Designed and experimented various reward functions for Ambidex by running standard RL algorithms (PPO, SAC) in Ambidex simulator
 
-Associate, *French Academy of Science*, Paris, France
+`2020.10 - 2020.12`
+__Pozalabs__ (Seoul, Korea)
 
+- Research Intern
+    * Conducted research on finding how to fit generative model (e.g. GPT)
+ to compose MIDI music
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+### Papers
 
-### Journals
+`2023`
+[MS thesis, will be sumbitted to EMNLP 2023] Haeju Lee, "[Bayesian Transfer Learning for Soft Prompt Tuning]()", 2023
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2022`
+Haeju Lee, Oh Joon Kwon, Yunseon Choi, Minho Park, Ran Han, Yoonhyung Kim, Jinhyeon Kim, Youngjune Lee, Haebin Shin, Kangwook Lee, Kee-Eung Kim, "[Learning to Embed Multi-Modal Contexts for Situated Conversational Agents](https://aclanthology.org/2022.findings-naacl.61/)", *NAACL Findings*, 2022
 
-`1669`
-Lectiones opticæ.
+Haeju Lee, Oh Joon Kwon, Yunseon Choi, Minho Park, Ran Han, Yoonhyung Kim, Jinhyeon Kim, Youngjune Lee, Haebin Shin, Kangwook Lee, Kee-Eung Kim, "[Tackling Situated Multi-Modal Task-Oriented Dialogs with a Single Transformer Model](http://ailab.kaist.ac.kr/papers/LKC2022TACKLING)", *AAAI DSTC10 Workshop*, 2022
 
-etc. etc. etc.
+`2021`
+Youngjune Lee, Oh Joon Kwon, Haeju Lee, Joonyoung Kim, Kangwook Lee, Kee-Eung Kim, "[Augment & Valuate : A Data Enhancement Pipeline for Data-Centric AI](https://datacentricai.org/neurips21/papers/154_CameraReady_[154]Augment&ValuateAdataenhancementpipelineforDataCentricAI.pdf)", *NeurIPS Data-Centric AI workshop*, 2021
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2023`
+트랜스포머 모델을 이용한 농산물 가격예측 방법 및 시스템 
+(Method and System for Predicting Price of Agricultural Product based on Transformer Model)
+[link]()
 
+## Awards & Competitions
+`2021`
+1st place on [DSTC 10](https://dstc10.dstc.community/) challenge (track 3, [SIMMC2.0](https://github.com/facebookresearch/simmc2))
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`2018`
+Samsung AI Hackathon, Special award
+- Indoor cleaning robot navigation using deep learning model
 
 
 <!-- ### Footer

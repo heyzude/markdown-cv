@@ -5,7 +5,20 @@
   <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
   <link href="media/{{ site.style }}-screen.css" type="text/css" rel="stylesheet" media="screen">
   <link href="media/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
-</head>
+ 
+  <!-- mathjax -->
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+  tex2jax: {
+  inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+  processEscapes: true
+  }
+  });
+  </script>
+  <script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+  </head>
 <body>
   <div id="main">
     <div id="content">
