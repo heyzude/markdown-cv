@@ -88,7 +88,7 @@ Youngjune Lee, Oh Joon Kwon, Haeju Lee, Joonyoung Kim, Kangwook Lee, Kee-Eung Ki
 ## Awards & Competitions
 
 `2021`
-1st place on [DSTC 10](https://dstc10.dstc.community/) challenge (track 3: [SIMMC2.0](https://github.com/facebookresearch/simmc2))
+1st place on [DSTC 10](https://dstc10.dstc.community/) challenge (track 3: [SIMMC2.0](https://github.com/facebookresearch/simmc2/tree/main/dstc10))
 
 <div style=" width: 0.8em; height: 0.8em;"></div>
 
