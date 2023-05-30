@@ -45,7 +45,7 @@ __Pozalabs__ (Seoul, Korea)
 __Naver Labs__ (Seongnam, Korea)
 
 - Research Engineer Intern, Robot Dynamics & Control Team
-    * • Implemented simulator for [Ambidex](https://youtu.be/NWEPEfRJ_3g), an Ambidexterous robot  
+    * • Implemented simulator for [Ambidex](https://youtu.be/NWEPEfRJ_3g), an ambidexterous robot  
     designed by Naver Labs, to promote efficient learning (RL, IL),  
     based on Mujoco and [Metaworld](https://meta-world.github.io)
     * • Created Python binding of existing Ambidex controller code (C++),  
