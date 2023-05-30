@@ -25,7 +25,7 @@ Natural Language Processing (NLP), Reinforcement Learning (RL)
 `2021 - 2023`
 __KAIST__
 
-- Gradueate School of AI
+- Graduate School of AI
 
 `2014 - 2021`
 __Yonsei University__
