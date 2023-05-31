@@ -61,7 +61,7 @@ __Bear Robotics__ (San Francisco Bay Area, US)
 ### Papers
 
 `2023`
-[MS thesis, and will be sumbitted to EMNLP 2023] Haeju Lee, ["Bayesian Transfer Learning for Soft Prompt Tuning"](https://github.com/heyzude/markdown-cv/blob/master/assets/Papers/hjlee_MS_defense_v1.pdf), 2023
+MS thesis: [link](https://github.com/heyzude/markdown-cv/blob/master/assets/Papers/hjlee_MS_defense_v1.pdf)
 <div style=" width: 0.8em; height: 0.8em;"></div>
 
 `2022`
