@@ -38,20 +38,15 @@ __Yonsei University__
 __Pozalabs__ (Seoul, Korea)
 
 - Research Intern
-    * • Conducted research on finding how to fit generative model (e.g. GPT)  
-    to compose MIDI scores
+    * • Conducted research on finding how to fit generative model (e.g. GPT) to compose MIDI scores
 
 `2020.03 - 2020.09`
 __Naver Labs__ (Seongnam, Korea)
 
 - Research Engineer Intern, Robot Dynamics & Control Team
-    * • Implemented simulator for [Ambidex](https://youtu.be/NWEPEfRJ_3g), an ambidexterous robot  
-    designed by Naver Labs, to promote efficient learning (RL, IL),  
-    based on Mujoco and [Metaworld](https://meta-world.github.io)
-    * • Created Python binding of existing Ambidex controller code (C++),  
-    to plug Ambidex into RL training loop
-    * • Designed and experimented various reward functions for Ambidex  
-    by running standard RL algorithms (PPO, SAC) in Ambidex simulator
+    * • Implemented simulator for [Ambidex](https://youtu.be/NWEPEfRJ_3g), an ambidexterous robot designed by Naver Labs, to promote efficient learning (RL, IL), based on Mujoco and [Metaworld](https://meta-world.github.io)
+    * • Created Python binding of existing Ambidex controller code (C++), to plug Ambidex into RL training loop
+    * • Designed and experimented various reward functions for Ambidex by running standard RL algorithms (PPO, SAC) in Ambidex simulator
 
 `2019.07 - 2019.12`
 __Bear Robotics__ (San Francisco Bay Area, US)
