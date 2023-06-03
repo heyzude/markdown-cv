@@ -87,6 +87,10 @@ Youngjune Lee, Oh Joon Kwon, Haeju Lee, Joonyoung Kim, Kangwook Lee, Kee-Eung Ki
 
 <div style=" width: 0.8em; height: 0.8em;"></div>
 
+Data-Centric AI Competition, [Honorable Mention](https://www.deeplearning.ai/blog/data-centric-ai-competition-kaist-aiprlab/)
+
+<div style=" width: 0.8em; height: 0.8em;"></div>
+
 
 `2018`
 Samsung AI Hackathon, Special award
