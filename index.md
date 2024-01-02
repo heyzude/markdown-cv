@@ -61,7 +61,7 @@ __Bear Robotics__ (San Francisco Bay Area, US)
 ### Papers
 
 `2023`
-MS thesis, and EMNLP 2023 submission: [LINK](https://github.com/heyzude/markdown-cv/blob/master/assets/Papers/HJLee_MS_defense_v2.pdf)
+Haeju Lee, Minchan Jeong, Se-Young Yun, Kee-Eung Kim, ["Bayesian Multi-Task Transfer Learning for Soft Prompt Tuning"](https://aclanthology.org/2023.findings-emnlp.329.pdf), *EMNLP Findings (and also Masters Degree Thesis)*, 2023
 <div style=" width: 0.8em; height: 0.8em;"></div>
 
 `2022`
