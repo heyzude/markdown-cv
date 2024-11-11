@@ -13,7 +13,9 @@ AI Researcher
 
 ## Currently
 
-Graduate student @ KAIST (advisor: [Kee-Eung Kim](http://ailab.kaist.ac.kr/users/kekim))
+__LG AI Research__
+
+- [EXAONE Language Model Team, Alignment Squad](https://linkedin.com/in/haeju-lee)
 
 ## Research interests
 
@@ -25,12 +27,12 @@ Natural Language Processing (NLP), Reinforcement Learning (RL)
 `2021 - 2023`
 __KAIST__
 
-- Graduate School of AI
+- Graduate School of AI, MS (advisor: [Kee-Eung Kim](http://ailab.kaist.ac.kr/users/kekim))
 
 `2014 - 2021`
 __Yonsei University__
 
-- Department of Computer Science
+- Department of Computer Science, BS
 
 ## Employment
 
@@ -59,6 +61,9 @@ __Bear Robotics__ (San Francisco Bay Area, US)
 ## Publications
 
 ### Papers
+`2024`
+LG AI Research: Soyoung An, Kyunghoon Bae, Eunbi Choi, Stanley Jungkyu Choi, Yemuk Choi, Seokhee Hong, Yeonjung Hong, Junwon Hwang, Hyojin Jeon, Gerrard Jeongwon Jo, Hyunjik Jo, Jiyeon Jung, Yountae Jung, Euisoon Kim, Hyosang Kim, Joonkee Kim, Seonghwan Kim, Soyeon Kim, Sunkyoung Kim, Yireun Kim, Youchul Kim, Edward Hwayoung Lee, Haeju Lee, Honglak Lee, Jinsik Lee, Kyungmin Lee, Moontae Lee, Seungjun Lee, Woohyung Lim, Sangha Park, Sooyoun Park, Yongmin Park, Boseong Seo, Sihoon Yang, Heuiyeen Yeen, Kyungjae Yoo, Hyeongu Yun, ["EXAONE 3.0 7.8B Instruction Tuned Language Model"](https://arxiv.org/abs/2408.03541), *ArXiv*, 2024
+<div style=" width: 0.8em; height: 0.8em;"></div>
 
 `2023`
 Haeju Lee, Minchan Jeong, Se-Young Yun, Kee-Eung Kim, ["Bayesian Multi-Task Transfer Learning for Soft Prompt Tuning"](https://aclanthology.org/2023.findings-emnlp.329.pdf), *EMNLP Findings (and also Masters Degree Thesis)*, 2023
